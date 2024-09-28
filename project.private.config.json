@@ -1,0 +1,105 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "mini-merchant",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "libVersion": "3.3.4",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "首页",
+          "pathName": "pages/index/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/index/index",
+          "pathName": "pages/user/store/index/index",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "component/user/contact/problem-feedback/problem-feedback",
+          "pathName": "component/user/contact/problem-feedback/problem-feedback",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/contact/problem-feedback/problem-feedback",
+          "pathName": "pages/user/contact/problem-feedback/problem-feedback",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/contact/contact-us/contact-us",
+          "pathName": "pages/user/contact/contact-us/contact-us",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "component/user/contact/contact-us/contact-us",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/contact/contact",
+          "pathName": "pages/user/contact/contact",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "component/user/contact/contact",
+          "pathName": "component/user/contact/contact",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/ruler/ruler",
+          "pathName": "pages/user/ruler/ruler",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "pages/user/store/detail/detail",
+          "pathName": "pages/user/store/detail/detail",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "积分商品细节",
+          "pathName": "pages/user/store/detail/detail",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "积分商城头部",
+          "pathName": "component/store/store-header/store-header",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "用户信息界面",
+          "pathName": "pages/user/info/info",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

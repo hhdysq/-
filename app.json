@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/index/index",
+    "pages/user/about/about",
+    "pages/user/info/info",
+    "pages/user/item/item",
+    "pages/user/ruler/ruler",
+    "pages/rank/rank",
+    "pages/user/store/detail/detail",
+    "pages/user/store/index/index",
+    "pages/start/start",
+    "component/user/store/store-header/store-header",
+    "component/user/store/store-detail/store-detail",
+    "component/user/ruler/ruler",
+    "component/user/contact/online-customer-service/online-customer-service",
+    "component/user/contact/problem-feedback/problem-feedback",
+    "component/user/contact/help-center/help-center",
+    "component/user/contact/contact-us/contact-us",
+    "pages/user/contact/contact-us/contact-us",
+    "pages/user/contact/problem-feedback/problem-feedback",
+    "pages/user/contact/online-customer-service/online-customer-service",
+    "pages/user/contact/help-center/help-center",
+    "component/user/about/about"
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarBackgroundColor": "#ffffff"
+  },
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}
